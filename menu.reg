@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\ChecarFotos]
+@="SASA IA"
+"Icon"="C:\\Users\\SeuUsuario\\Documents\\saw_IA\\checar_fotos.bat"
+
+[HKEY_CLASSES_ROOT\Directory\shell\ChecarFotos\command]
+@="\"C:\\Users\\SeuUsuario\\Documents\\saw_IA\\checar_fotos.bat\" \"%1\""
